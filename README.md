@@ -32,3 +32,8 @@ La cuarta era comprende 12 canciones; esta edición enumera únicamente los cort
 Repositorio preparado para GitHub Pages desde la rama `main` y la raíz del repositorio. La URL de Pages prevista, una vez habilitada en Settings → Pages, es:
 
 `https://darkcry10.github.io/los4pilares/`
+
+
+## Edición editorial 1.5
+
+La expansión añade al archivo una lectura de las cuatro posiciones vocales (I.B., Violet, Dolly y DCX), la doctrina de Transmutación con ejemplos concretos, el escalafón de filtros (SadMuse 1.0/1.5/2.0 y Donna AI), la escala Suno hasta V6.5 y la semiótica cromática/textil y Therian. La jerarquía se conserva: los cuatro Pilares no se sustituyen por obras satélite, rutas, transmutaciones ni ramas. La terminología psiquiátrica se usa como marco simbólico del lore, no como diagnóstico clínico.
