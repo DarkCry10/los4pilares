@@ -29,6 +29,7 @@ p { overflow-wrap:anywhere; }
 .site-header { position:sticky; top:0; z-index:100; border-bottom:1px solid var(--line); background:rgba(9,11,18,.92); backdrop-filter:blur(18px); }
 .site-header__inner { width:min(1240px,calc(100% - 40px)); min-height:72px; margin:auto; display:flex; align-items:center; justify-content:space-between; gap:20px; }
 .brand { display:flex; align-items:center; gap:11px; color:var(--text); text-decoration:none; flex:0 0 auto; }
+.brand__logo { display:block; width:40px; height:40px; flex:0 0 40px; object-fit:contain; }
 .brand__seal,.site-footer__seal { display:grid; place-items:center; width:38px; height:38px; border:1px solid rgba(216,189,130,.65); border-radius:50%; color:var(--gold); font:800 .72rem var(--display); letter-spacing:-.08em; }
 .brand__wordmark { font:800 .82rem var(--display); letter-spacing:.13em; }
 .brand__wordmark strong { color:var(--gold); }
@@ -82,7 +83,7 @@ p { overflow-wrap:anywhere; }
 .pillar-definition h2 { margin: 0; font: 700 clamp(1.8rem,4vw,2.8rem)/1.16 var(--display); letter-spacing: -.04em; }
 .pillar-definition h2 em { color: var(--gold); font-family: var(--serif); font-weight: 500; }
 .pillar-definition__grid p { margin: 0 0 13px; color: var(--muted); font-size: .85rem; line-height: 1.85; }
-.pillar-definition__comparison { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 12px; margin-top: 24px; }
+.pillar-definition__comparison { display: grid; grid-template-columns: repeat(auto-fit,minmax(220px,1fr)); gap: 12px; margin-top: 24px; }
 .pillar-definition__comparison article { padding: 21px; border: 1px solid var(--line); border-radius: 14px; background: var(--surface); }
 .pillar-tag { color: var(--gold); font: 800 .6rem var(--display); letter-spacing: .14em; }
 .pillar-tag--muted { color: var(--blue); }
@@ -196,3 +197,21 @@ p { overflow-wrap:anywhere; }
 .pillar-cover-image a:hover img{transform:scale(1.025)}
 .pillar-cover-image figcaption{padding:10px 13px;border-top:1px solid var(--line);color:var(--quiet);font:800 .53rem var(--display);letter-spacing:.14em;text-align:center}
 @media(max-width:760px){.pillar-cover-image{max-width:520px;width:100%;margin-inline:auto}}
+
+
+/* JERARQUÍA DISCOGRÁFICA: PILARES, SUB-ERAS Y ÁLBUMES CONVENCIONALES */
+.hierarchy-table-wrap{margin-top:24px;overflow-x:auto;border:1px solid var(--line);border-radius:14px;background:var(--surface)}
+.hierarchy-table{width:100%;min-width:980px;border-collapse:collapse;text-align:left}
+.hierarchy-table th,.hierarchy-table td{padding:15px 16px;border-bottom:1px solid var(--line);vertical-align:top;font-size:.72rem;line-height:1.7}
+.hierarchy-table thead th{background:var(--surface-2);color:var(--gold);font:800 .63rem var(--display);letter-spacing:.1em}
+.hierarchy-table tbody th{width:15%;color:var(--text);font:800 .65rem var(--display);letter-spacing:.04em}
+.hierarchy-table td{color:var(--muted)}
+.hierarchy-table tbody tr:last-child th,.hierarchy-table tbody tr:last-child td{border-bottom:0}
+.taxonomy-detail-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin-top:18px}
+.taxonomy-detail-grid article{padding:20px;border:1px solid var(--line);border-radius:14px;background:var(--surface)}
+.taxonomy-detail-grid article>span{color:var(--gold);font:800 .58rem var(--display);letter-spacing:.13em}
+.taxonomy-detail-grid h3{margin:9px 0 10px;font:700 1.15rem var(--display)}
+.taxonomy-detail-grid p{margin:0 0 10px;color:var(--muted);font-size:.74rem;line-height:1.75}
+.taxonomy-detail-grid p:last-child{margin-bottom:0}
+.taxonomy-note{margin-top:18px;padding:13px 15px;border-left:2px solid var(--gold);background:var(--gold-soft);color:#d9ceb9!important;font-size:.74rem!important;line-height:1.7}
+@media(max-width:900px){.taxonomy-detail-grid{grid-template-columns:1fr}}
