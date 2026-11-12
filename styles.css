@@ -179,7 +179,7 @@ p { overflow-wrap:anywhere; }
 .pillar-voice-grid small,.alchemy-pillar-grid small,.filter-ladder small{color:var(--gold);font:800 .56rem var(--display);letter-spacing:.13em}
 .pillar-voice-grid h3,.alchemy-pillar-grid h3{margin:8px 0;font:700 1.08rem var(--display)}.pillar-voice-grid p,.alchemy-pillar-grid p,.filter-ladder p{margin:0;color:var(--muted);font-size:.72rem;line-height:1.8}
 .voice-ib{border-top:2px solid #b9a18a!important}.voice-violet{border-top:2px solid #7297c5!important}.voice-dolly{border-top:2px solid #d15d8c!important}.voice-dcx{border-top:2px solid #d6a34f!important}
-.expansion-note,.therian-pillar-note,.medical-note{margin-top:13px;padding:14px 16px;border:1px solid var(--line);border-radius:10px;color:var(--muted);font-size:.72rem;line-height:1.8;background:rgba(255,255,255,.025)}
+.expansion-note,.therian-pillar-note,.editorial-note{margin-top:13px;padding:14px 16px;border:1px solid var(--line);border-radius:10px;color:var(--muted);font-size:.72rem;line-height:1.8;background:rgba(255,255,255,.025)}
 .alchemy-pillar-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:11px;margin-top:17px}
 .alchemy-chain{display:flex;align-items:center;justify-content:center;gap:12px;flex-wrap:wrap;margin-top:13px;padding:18px;border:1px solid rgba(216,189,130,.25);border-radius:10px;background:rgba(216,189,130,.05)}
 .alchemy-chain b{color:var(--gold);font:800 .79rem var(--display)}.alchemy-chain span{color:var(--quiet)}.alchemy-chain p{flex-basis:100%;margin:0;color:var(--muted);font-size:.72rem;line-height:1.8;text-align:center}
