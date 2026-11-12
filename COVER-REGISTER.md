@@ -26,3 +26,7 @@ La portada principal de cada tarjeta de Pilar debe ser la carátula matriz. Las 
 assets/covers/pillar-01/, pillar-02/, pillar-03/ y pillar-04/ son las ubicaciones recomendadas para las cuatro imágenes matrices; cada zona puede enlazar a sus variantes y obras satélite.
 
 Estado: inventario y correspondencia editorial documentados. Los binarios originales y WebP permanecen en la biblioteca de portadas externa; no se han añadido rutas de imagen HTML hasta que los binarios puedan ser publicados en este repositorio.
+
+
+## Integración efectiva de portadas
+Las cuatro carátulas matrices ya se muestran en las fichas de este repositorio. Los archivos se sirven desde la biblioteca central del [portal principal](https://github.com/DarkCry10/darkcry10.github.io/tree/main/assets/covers), sin duplicar binarios en este repositorio.
