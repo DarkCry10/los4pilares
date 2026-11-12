@@ -25,7 +25,7 @@ La portada principal de cada tarjeta de Pilar debe ser la carátula matriz. Las 
 ## Destino de archivos web
 assets/covers/pillar-01/, pillar-02/, pillar-03/ y pillar-04/ son las ubicaciones recomendadas para las cuatro imágenes matrices; cada zona puede enlazar a sus variantes y obras satélite.
 
-Estado: inventario y correspondencia editorial documentados. Los binarios originales y WebP permanecen en la biblioteca de portadas externa; no se han añadido rutas de imagen HTML hasta que los binarios puedan ser publicados en este repositorio.
+Estado: inventario, correspondencia y presentación de las cuatro portadas matrices integrados. Las imágenes WebP se sirven desde la biblioteca central del portal principal.
 
 
 ## Integración efectiva de portadas
