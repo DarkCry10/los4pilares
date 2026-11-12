@@ -187,3 +187,12 @@ p { overflow-wrap:anywhere; }
 .temperature-strip{display:flex;align-items:center;justify-content:center;gap:13px;flex-wrap:wrap;margin-top:14px;padding:15px;border:1px solid var(--line);border-radius:10px;background:#0b1019}
 .temperature-strip span{font-size:.61rem;font-weight:800;letter-spacing:.1em}.temperature-strip span:first-child{color:#8da9d2}.temperature-strip span:nth-of-type(2){color:#dc7891}.temperature-strip span:nth-of-type(3){color:#d8d8d8}.temperature-strip b{color:var(--quiet)}
 @media(max-width:760px){.pillars-expansion{padding:18px}.pillar-voice-grid,.alchemy-pillar-grid,.filter-ladder{grid-template-columns:1fr}}
+
+
+/* PORTADAS OFICIALES DE LOS CUATRO PILARES */
+.pillar-cover-image{margin:0;min-width:0;overflow:hidden;border:1px solid var(--line-strong);border-radius:15px;background:#080b12;box-shadow:var(--shadow)}
+.pillar-cover-image a{display:block;overflow:hidden;aspect-ratio:1/1}
+.pillar-cover-image img{display:block;width:100%;height:100%;object-fit:cover;transition:transform .35s ease}
+.pillar-cover-image a:hover img{transform:scale(1.025)}
+.pillar-cover-image figcaption{padding:10px 13px;border-top:1px solid var(--line);color:var(--quiet);font:800 .53rem var(--display);letter-spacing:.14em;text-align:center}
+@media(max-width:760px){.pillar-cover-image{max-width:520px;width:100%;margin-inline:auto}}
