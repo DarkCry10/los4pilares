@@ -46,3 +46,7 @@ La expansión añade al archivo una lectura de las cuatro posiciones vocales (I.
 ## Autoría textual y proceso creativo
 
 La escritura narrativa, poética y lírica de las letras de DarkCry 1.0 es 100 % obra de Jesús Ríos Vásquez. La mayoría de las canciones se basa en experiencias propias, narradas y compuestas por el artista mediante su trabajo de composición, poesía y escritura de letras. SadMuse no redacta ni inventa letras: únicamente da forma y adapta poemas que ya existen. Suno aporta sonido, voz y realización musical para dar vida a esos textos. Donna AI se utilizó solo durante la etapa inicial del proyecto y en la creación de los cuatro Pilares. La tecnología participa en la adaptación y producción; no sustituye la autoría humana del texto.
+
+## Continuidad posterior a los cuatro Pilares
+
+Los cuatro Pilares permanecen como las únicas obras matrices de las Eras 1.0–4.0. `The Dark Side of the Moon` es un expediente transversal X/Y/Z; `A Plea for Shelter` y `Walking through the Blue Street` ofrecen perspectivas material y emocional convergentes de una misma travesía; `Echoes of Blue` recontextualiza esa experiencia. `Smoke in the Kitchen` es una matriz de Era Z con rutas A/B, no un quinto Pilar. La referencia compartida está en [canon-registry.json](https://github.com/DarkCry10/darkcry10.github.io/blob/main/data/canon-registry.json).
