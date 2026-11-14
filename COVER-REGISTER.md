@@ -25,11 +25,11 @@ La portada principal de cada tarjeta de Pilar debe ser la carátula matriz. Las 
 ## Destino de archivos web
 assets/covers/pillar-01/, pillar-02/, pillar-03/ y pillar-04/ son las ubicaciones recomendadas para las cuatro imágenes matrices; cada zona puede enlazar a sus variantes y obras satélite.
 
-Estado: inventario, correspondencia y presentación de las cuatro portadas matrices integrados. Las cuatro imágenes WebP oficiales se copiaron desde la biblioteca de alta calidad del portal principal a `assets/covers/` en este repositorio para que cada portada se sirva localmente.
+Estado: inventario y correspondencia de las cuatro portadas matrices integrados. La página consume directamente los cuatro archivos WebP oficiales de alta calidad desde la biblioteca central del portal principal (`assets/covers/01-webp-alta/`), evitando duplicados locales y manteniendo una única fuente canónica.
 
 
 ## Integración efectiva de portadas
-Las cuatro carátulas matrices se muestran en las fichas de este repositorio y ahora cuentan con archivos locales: `pillar-01.webp`, `pillar-02.webp`, `pillar-03.webp` y `pillar-04.webp`. Sus originales proceden de la biblioteca de alta calidad del [portal principal](https://github.com/DarkCry10/darkcry10.github.io/tree/main/assets/covers/01-webp-alta); se mantienen copias locales para evitar dependencias de rutas externas.
+Las cuatro carátulas matrices se muestran en las fichas de este repositorio mediante enlaces directos a los originales de la biblioteca de alta calidad del [portal principal](https://github.com/DarkCry10/darkcry10.github.io/tree/main/assets/covers/01-webp-alta). Las rutas HTML usan `https://darkcry10.github.io/assets/covers/01-webp-alta/` como fuente única para imagen y ampliación.
 
 
 ## Carátulas incorporadas posteriormente
