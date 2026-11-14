@@ -222,3 +222,7 @@ p { overflow-wrap:anywhere; }
 .authorship-note strong{display:block;margin-bottom:6px;color:var(--gold);font:800 .64rem var(--display);letter-spacing:.13em;text-transform:uppercase}
 .authorship-note p{margin:0;color:var(--muted);font-size:.73rem;line-height:1.8}
 .site-footer__mark{display:block;flex:0 0 38px;width:38px;height:38px;object-fit:cover;border:1px solid var(--line-strong);border-radius:50%}
+
+
+/* Emblema circular también en la cabecera */
+.site-header .brand__logo{display:block;width:40px;height:40px;flex:0 0 40px;object-fit:cover;object-position:center;border-radius:50%;overflow:hidden;border:1px solid var(--line-strong)}
