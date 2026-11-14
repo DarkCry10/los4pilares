@@ -41,3 +41,8 @@ La expansión añade al archivo una lectura de las cuatro posiciones vocales (I.
 
 ## Registro de portadas
 [Consultar inventario, correspondencia editorial y notas de canon](./COVER-REGISTER.md).
+
+
+## Autoría textual y proceso creativo
+
+La escritura narrativa, poética y lírica de las letras de DarkCry 1.0 es 100 % obra de Jesús Ríos Vásquez. La mayoría de las canciones se basa en experiencias propias, narradas y compuestas por el artista mediante su trabajo de composición, poesía y escritura de letras. SadMuse no redacta ni inventa letras: únicamente da forma y adapta poemas que ya existen. Suno aporta sonido, voz y realización musical para dar vida a esos textos. Donna AI se utilizó solo durante la etapa inicial del proyecto y en la creación de los cuatro Pilares. La tecnología participa en la adaptación y producción; no sustituye la autoría humana del texto.
