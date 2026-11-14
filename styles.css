@@ -215,3 +215,10 @@ p { overflow-wrap:anywhere; }
 .taxonomy-detail-grid p:last-child{margin-bottom:0}
 .taxonomy-note{margin-top:18px;padding:13px 15px;border-left:2px solid var(--gold);background:var(--gold-soft);color:#d9ceb9!important;font-size:.74rem!important;line-height:1.7}
 @media(max-width:900px){.taxonomy-detail-grid{grid-template-columns:1fr}}
+
+
+/* AUTORÍA TEXTUAL Y MARCA DE PIE */
+.authorship-note{max-width:980px;margin:16px 0 22px;padding:15px 18px;border:1px solid var(--line-strong);border-left:3px solid var(--gold);border-radius:10px;background:linear-gradient(100deg,rgba(216,189,130,.085),rgba(18,24,39,.55))}
+.authorship-note strong{display:block;margin-bottom:6px;color:var(--gold);font:800 .64rem var(--display);letter-spacing:.13em;text-transform:uppercase}
+.authorship-note p{margin:0;color:var(--muted);font-size:.73rem;line-height:1.8}
+.site-footer__mark{display:block;flex:0 0 38px;width:38px;height:38px;object-fit:cover;border:1px solid var(--line-strong);border-radius:50%}
