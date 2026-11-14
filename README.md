@@ -12,10 +12,10 @@ Este sitio documenta los cuatro Pilares como columnas fundacionales de la histor
 |---|---|---|---|
 | 01 | 1.0 | The Invisible Boy | Herida primaria, infancia doméstica y origen de Violet |
 | 02 | 2.0 | Crying in the Bubblebath | Transacción fallida y purificación imposible |
-| 03 | 3.0 | Walking through the Blue street | Entumecimiento y alienación metropolitana |
+| 03 | 3.0 | Walking Through the Blue Street | Entumecimiento y alienación metropolitana |
 | 04 | 4.0 | I'm bad, so Bad | Mutación psíquica, armadura de neón y Dolly |
 
-Los cuatro álbumes son matrices inamovibles. Las obras intermedias o satélite se mencionan únicamente para explicar los puentes causales, sin elevarlas a la jerarquía de Pilar.
+Los cuatro álbumes son matrices inamovibles y su orden vigente se conserva hasta una revisión futura explícita: 01 *The Invisible Boy*, 02 *Crying in the Bubblebath*, 03 *Walking Through the Blue Street* y 04 *I'm bad, so Bad*. Una anotación heredada «Era 1.9 (Pilar 3)» en el documento fuente para el Side B de *When the Sky Turned Crimson (and warm)* no se adopta; ese proyecto sigue siendo satélite de Era 1.9. Las obras intermedias o satélite explican puentes causales sin elevarse a la jerarquía de Pilar.
 
 ## Archivos
 
@@ -49,4 +49,4 @@ La escritura narrativa, poética y lírica de las letras de DarkCry 1.0 es 100 %
 
 ## Continuidad posterior a los cuatro Pilares
 
-Los cuatro Pilares permanecen como las únicas obras matrices de las Eras 1.0–4.0. `The Dark Side of the Moon` es un expediente transversal X/Y/Z; `A Plea for Shelter` y `Walking through the Blue Street` ofrecen perspectivas material y emocional convergentes de una misma travesía; `Echoes of Blue` recontextualiza esa experiencia. `Smoke in the Kitchen` es una matriz de Era Z con rutas A/B, no un quinto Pilar. La referencia compartida está en [canon-registry.json](https://github.com/DarkCry10/darkcry10.github.io/blob/main/data/canon-registry.json).
+Los cuatro Pilares permanecen como las únicas obras matrices de las Eras 1.0–4.0. `The Dark Side of the Moon` es un expediente transversal X/Y/Z; `A Plea for Shelter` y `Walking Through the Blue Street` ofrecen perspectivas material y emocional convergentes de una misma travesía; `Echoes of Blue` recontextualiza esa experiencia. `Smoke in the Kitchen` es una matriz de Era Z con rutas A/B, no un quinto Pilar. La referencia compartida está en [canon-registry.json](https://github.com/DarkCry10/darkcry10.github.io/blob/main/data/canon-registry.json).
